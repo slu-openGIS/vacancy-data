@@ -4,6 +4,7 @@
 [![](https://img.shields.io/github/release/chris-prener/vacancy-data.svg?label=version)](https://github.com/chris-prener/vacancy-data/releases)
 [![](https://img.shields.io/github/last-commit/chris-prener/vacancy-data.svg)](https://github.com/chris-prener/vacancy-data/commits/master)
 [![](https://img.shields.io/github/repo-size/chris-prener/vacancy-data.svg)](https://github.com/chris-prener/vacancy-data/)
+[![DOI](https://zenodo.org/badge/132192224.svg)](https://zenodo.org/badge/latestdoi/132192224)
 
 ### Overview
 This repository contains data releases from the [*Urban Prairies* Project](https://chris-prener.github.io/barriers). It currently contains tabular data for our 2017 analysis of vacancy in St. Louis, Missouri. There are both high and low estimate files containing the `HANDLE` identification numbers for parcels we determined to contain either vacant lots or vacant buildings. Details on our methodology are available in our forthcoming publication in the *Journal of Urban Affairs*, which is available as a pre-print on [SocArXiv](https://dx.doi.org/10.17605/OSF.IO/BC7EH). For more information, please check our [project website](https://chris-prener.github.io/barriers).
@@ -11,7 +12,7 @@ This repository contains data releases from the [*Urban Prairies* Project](https
 ### Support and Feedback
 If you have found a typo, omission, or have a suggestion, please check the [contribution guidelines](.github/CONTRIBUTING.md) guidelines before opening an issue. Please note that contributions to this project are governed by a [Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md) and, for Saint Louis University community members, our various University policies.
 
-If you are interested in using our data, please note that it is released without warranty under a permissive [license](LICENSE) that does, however, require attribution. Citation information including a digital object identifier for the data, can be found via [Zenodo](https://zenodo.org/record/1214213). Please also see our policy on [support](.github/SUPPORT.md) for additional details.
+If you are interested in using our data, please note that it is released without warranty under a permissive [license](LICENSE) that does, however, require attribution. Citation information including a digital object identifier for the data, can be found via [Zenodo](https://zenodo.org/record/1241430). Please also cite our [original paper](https://dx.doi.org/10.17605/OSF.IO/BC7EH) and see our policy on [support](.github/SUPPORT.md) for additional details.
 
 ## About the *Urban Prairies* Project
 ### Project Description
