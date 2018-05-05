@@ -13,7 +13,7 @@ If you have found a typo, omission, or have a suggestion, please check the [cont
 
 If you are interested in using our data, please note that it is released without warranty under a permissive [license](LICENSE) that does, however, require attribution. Citation information including a digital object identifier for the data, can be found via [Zenodo](https://zenodo.org/record/1214213). Please also see our policy on [support](.github/SUPPORT.md) for additional details.
 
-## About the *Streets Not Thru* Project
+## About the *Urban Prairies* Project
 ### Project Description
 The City of St. Louis (which is an independent city separate from St. Louis County) has a [well documented](http://www.stltoday.com/news/local/metro/amid-drumbeat-from-falling-bricks-st-louis-to-ramp-up/article_1e237c9c-95e7-5c01-8d0c-92a2fe1a5c78.html) pattern of extensive vacancy. What is less well documented, however, is the volume of vacancy in the city. A variety of estimates have been made in the last several decades. Most recently, the Mayor's office release an estimate of at least 24,000 vacant properties as part of the City's [Preliminary Resilience Assessment](https://www.stlouis-mo.gov/government/departments/mayor/initiatives/resilience/documents/upload/PRA1001_Report_Inside_10.pdf). Our *Urban Prairies* project aims to produce estimates of vacancy at the parcel level in St. Louis. We are particularly interested in how vacant land clusters spatially to produce areas in St. Louis that appear to 'return to nature'.
 
