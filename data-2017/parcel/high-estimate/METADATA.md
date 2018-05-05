@@ -5,7 +5,7 @@
   * **Date of Original Publication -** 05 May 2018
   * **Date of Last Update -** 05 May 2018
   * **Edition -** v0.1.0
-  * **Abstract -**
+  * **Abstract -** Data containing the `HANDLE` identification numbers for parcels we determined to contain either vacant lots or vacant buildings as well as an indicator identifying City-owned properties. These data are for the less conservative "high" estimate.
   * **Maintenance Frequency -** Infrequent
   * **Keywords -** Missouri, St. Louis, Street Closures, Barriers, Urban Planning
   * **Constraints Use -** Open Data Commons Attribution License (ODC-By) v1.0
