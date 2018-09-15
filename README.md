@@ -7,7 +7,11 @@
 [![DOI](https://zenodo.org/badge/132192224.svg)](https://zenodo.org/badge/latestdoi/132192224)
 
 ### Overview
-This repository contains data releases from the [*Urban Prairies* Project](https://chris-prener.github.io/barriers). It currently contains tabular data for our 2017 analysis of vacancy in St. Louis, Missouri. There are both high and low estimate files containing the `HANDLE` identification numbers for parcels we determined to contain either vacant lots or vacant buildings. Details on our methodology are available in our forthcoming publication in the *Journal of Urban Affairs*, which is available as a pre-print on [SocArXiv](https://dx.doi.org/10.17605/OSF.IO/BC7EH). For more information, please check our [project website](https://chris-prener.github.io/barriers).
+This repository contains data releases from the [*Urban Prairies* Project](https://chris-prener.github.io/barriers). It currently contains tabular data for our 2017 analysis of vacancy in St. Louis, Missouri. There are both high and low estimate files containing the `HANDLE` identification numbers for parcels we determined to contain either vacant lots or vacant buildings.  
+
+On September 15, 2018 we updated the initial data release with a comparison of our data to the STL Vacancy Initiative data from June 2018. **Note that these data are from two different time periods**. They are released to provide a point of departure for those interested in exploring differences between the two estimates.
+
+Details on our methodology are available in our forthcoming publication in the *Journal of Urban Affairs*, which is available as a pre-print on [SocArXiv](https://dx.doi.org/10.17605/OSF.IO/BC7EH). For more information, please check our [project website](https://chris-prener.github.io/vacancy).
 
 ### Support and Feedback
 If you have found a typo, omission, or have a suggestion, please check the [contribution guidelines](.github/CONTRIBUTING.md) guidelines before opening an issue. Please note that contributions to this project are governed by a [Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md) and, for Saint Louis University community members, our various University policies.
