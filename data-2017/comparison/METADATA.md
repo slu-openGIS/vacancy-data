@@ -52,3 +52,4 @@ Bracketed references indicate which of the four spreadsheets listed above contai
 * `compare_type` - does the simplified property type (`"lot"` or `"building"`) in the city data match the prairie data? [1,2]
     - `"matched"` - the property type is the same in the city and prairie data
     - `"unmatched"` - the property type is not the same in the city and the prairie data
+* `p_low` - were data included the low estimate from the prairie paper? [1-3]
