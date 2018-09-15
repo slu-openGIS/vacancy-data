@@ -1,0 +1,685 @@
+HANDLE,c_address,c_lra,c_typeDetail,c_typeSimple
+10322000020,1918-34 N BROADWAY,FALSE,"vacant building, confirmed",building
+10346000250,927 TYLER ST,FALSE,"vacant building, confirmed",building
+10360000030,1120 MONTGOMERY ST,FALSE,"vacant building, confirmed",building
+10685000040,710 ALLEN AV,FALSE,"vacant building, confirmed",building
+11041000060,3200 LOCUST ST,FALSE,"vacant building, confirmed",building
+11239000280,3919 N 20TH ST,FALSE,"vacant building, confirmed",building
+11352000320,2653 ANN AV,FALSE,"vacant building, confirmed",building
+11380000020,2754 ARMAND PL,FALSE,"vacant building, confirmed",building
+11419000340,2835 MISSOURI AV,FALSE,"vacant building, confirmed",building
+11425050160,2806 MAGNOLIA AV,FALSE,"vacant building, confirmed",building
+11471000140,3119 NEBRASKA AV,FALSE,"vacant building, confirmed",building
+11473000020,3130 OREGON AV,FALSE,"vacant building, confirmed",building
+11475000100,3160 NEBRASKA AV,FALSE,"vacant building, confirmed",building
+11476000170,3143 NEBRASKA AV,FALSE,"vacant building, possible",building
+11511000210,2800 UTAH ST,FALSE,"vacant building, confirmed",building
+11512000090,3224 OREGON AV,FALSE,"vacant building, confirmed",building
+11517000380,3253 TEXAS AV,FALSE,"vacant building, confirmed",building
+11570000200,3523 IOWA AV,FALSE,"vacant building, confirmed",building
+11617000060,3640 LOUISIANA AV,FALSE,"vacant building, confirmed",building
+11625000130,3710 MICHIGAN AV,FALSE,"vacant building, possible",building
+11627000045,3830 MINNESOTA AV,FALSE,"vacant building, possible",building
+11627000070,3822 MINNESOTA AV,FALSE,"vacant building, confirmed",building
+11818000405,2743 CAROLINE ST,FALSE,"vacant building, confirmed",building
+11887000190,1900 COLEMAN ST,FALSE,"vacant building, confirmed",building
+10465030340,945 PARK AV,FALSE,"vacant building, confirmed",building
+10484000320,1302 MISSISSIPPI AV,FALSE,"vacant building, confirmed",building
+10581000030,1300-6 N 7TH ST,FALSE,"vacant building, confirmed",building
+10793000160,2615 S 11TH ST,FALSE,"vacant building, confirmed",building
+10812000060,1300-2 SIDNEY ST,FALSE,"vacant building, confirmed",building
+11070000200,2901 PARNELL ST,FALSE,"vacant building, confirmed",building
+11071000025,2560 W SULLIVAN AV,FALSE,"vacant building, confirmed",building
+11076000240,2547-9 UNIVERSITY ST,FALSE,"vacant building, confirmed",building
+11115000100,1451-7 BENTON ST,FALSE,"vacant building, confirmed",building
+11130000080,2900 N 14TH ST,FALSE,"vacant building, confirmed",building
+11152000075,3117-9 N 14TH ST,FALSE,"vacant building, confirmed",building
+11254000440,1625-7 CARROLL ST,FALSE,"vacant building, confirmed",building
+11318000185,2702 GEYER AV,FALSE,"vacant building, confirmed",building
+11348000175,2016-8 S JEFFERSON AV,FALSE,"vacant building, confirmed",building
+11403000390,2207 SIDNEY ST,FALSE,"vacant building, confirmed",building
+11422000020,2862 OHIO AV,FALSE,"vacant building, confirmed",building
+11471000200,3137 NEBRASKA AV,FALSE,"vacant building, confirmed",building
+11475000040,3184 NEBRASKA AV,FALSE,"vacant building, confirmed",building
+11475000220,3153 OREGON AV,FALSE,"vacant building, confirmed",building
+11476000090,3168 PENNSYLVANIA AV,FALSE,"vacant building, confirmed",building
+11477000170,3001-5 WYOMING ST,FALSE,"vacant building, confirmed",building
+11490000220,3403 UTAH ST,FALSE,"vacant building, confirmed",building
+11503000120,3320 MICHIGAN AV,FALSE,"vacant building, confirmed",building
+11516000240,3229 OHIO AV,FALSE,"vacant building, confirmed",building
+11529000050,2012 WITHNELL AV,FALSE,"vacant building, confirmed",building
+11534000090,1926 WYOMING ST,FALSE,"vacant building, confirmed",building
+11571000200,3535-7 CALIFORNIA AV,FALSE,"vacant building, confirmed",building
+11572000250,3415 CALIFORNIA AV,FALSE,"vacant building, confirmed",building
+11600000020,3726 GRAVOIS AV,FALSE,"vacant building, confirmed",building
+11615000090,3824 LOUISIANA AV,FALSE,"vacant building, confirmed",building
+11618000150,3614 VIRGINIA AV,FALSE,"vacant building, confirmed",building
+11620000050,3844 VIRGINIA AV,FALSE,"vacant building, confirmed",building
+11649000125,3714 TEXAS AV,FALSE,"vacant building, confirmed",building
+11691000180,6127 ADELINE ST,FALSE,"vacant building, confirmed",building
+11760000220,2634-6 ARSENAL ST,FALSE,"vacant building, confirmed",building
+11867060010,3740 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+10122000050,801-911 N BROADWAY,FALSE,"vacant building, confirmed",building
+10150050055,601-15 CHOUTEAU AV,TRUE,"vacant lot, confirmed",lot
+10259000011,901 DR MARTIN LUTHER KING DR,TRUE,"vacant lot, confirmed",lot
+10259000012,911-23 N 9TH ST,TRUE,"vacant lot, confirmed",lot
+10466040010,1001-33 RUTGER ST,FALSE,"vacant lot, possible",lot
+10567000030,1506-16 OFALLON ST,FALSE,"vacant lot, possible",lot
+10591000070,1432 N 14TH ST,TRUE,"vacant lot, confirmed",lot
+10628000070,1723 N 13TH ST,FALSE,"vacant lot, confirmed",lot
+10663000191,805 1/2 ALLEN AV,FALSE,"vacant lot, possible",lot
+10667000062,1012 GEYER AV,FALSE,"vacant building, confirmed",building
+10790000190,1041 SHENANDOAH AV,FALSE,"vacant building, possible",building
+11003000030,2822 SHERIDAN AV,FALSE,"vacant lot, confirmed",lot
+11012000040,2930 DR SAMUEL T SHEPARD DR,FALSE,"vacant lot, possible",lot
+11012000060,2924 DR SAMUEL T SHEPARD DR,FALSE,"vacant lot, possible",lot
+11012000100,2908 DR SAMUEL T SHEPARD DR,FALSE,"vacant lot, possible",lot
+11012000120,2904 DR SAMUEL T SHEPARD DR,FALSE,"vacant lot, possible",lot
+11012000130,2902 DR SAMUEL T SHEPARD DR,FALSE,"vacant lot, possible",lot
+11012000140,2900 DR SAMUEL T SHEPARD DR,FALSE,"vacant lot, possible",lot
+11012000150,619 REV T E HUNTLEY AV,FALSE,"vacant lot, possible",lot
+11029000055,3046 THOMAS ST,FALSE,"vacant lot, possible",lot
+11030000445,3055 THOMAS ST,FALSE,"vacant lot, possible",lot
+11038000260,3200-6 DELMAR BLVD,FALSE,"vacant lot, confirmed",lot
+11038000260,3200-6 DELMAR BLVD,FALSE,"vacant lot, confirmed",lot
+11038000260,3200-6 DELMAR BLVD,FALSE,"vacant lot, confirmed",lot
+11038000260,3200-6 DELMAR BLVD,FALSE,"vacant lot, confirmed",lot
+11119000060,2717 BLAIR AV,FALSE,"vacant lot, confirmed",lot
+11123000085,1306 ST LOUIS AV,TRUE,"vacant lot, confirmed",lot
+11123000085,1306 ST LOUIS AV,TRUE,"vacant lot, confirmed",lot
+11123000085,1306 ST LOUIS AV,TRUE,"vacant lot, confirmed",lot
+11135030190,1909 DODIER ST,TRUE,"vacant lot, confirmed",lot
+11135040250,3001 N FLORISSANT AV,TRUE,"vacant lot, confirmed",lot
+11222000005,51 BREMEN AV,TRUE,"vacant lot, confirmed",lot
+11245000120,2302-6 BREMEN AV,FALSE,"vacant building, possible",building
+11254000193,1613-5 CARROLL ST,TRUE,"vacant lot, confirmed",lot
+11274000290,3111 RUTGER ST,FALSE,"vacant building, confirmed",building
+11322000250,2637 ALLEN AV,FALSE,"vacant building, possible",building
+11348000160,2337 RUSSELL BLVD,FALSE,"vacant building, possible",building
+11378000060,2230 OREGON AV,FALSE,"vacant building, possible",building
+11400200010,2240-2 GAINE ST,FALSE,"vacant building, confirmed",building
+11416000030,2862 WISCONSIN AV,FALSE,"vacant building, possible",building
+11422000161,2828 OHIO AV,FALSE,"vacant building, possible",building
+11436000320,2343 VIRGINIA AV,FALSE,"vacant building, possible",building
+11456000030,3004 VIRGINIA AV,FALSE,"vacant building, possible",building
+11475000240,3159 OREGON AV,FALSE,"vacant building, confirmed",building
+11509000300,3241 OREGON AV,FALSE,"vacant building, possible",building
+11516000380,2727 UTAH ST,FALSE,"vacant building, confirmed",building
+11528000190,3303 WISCONSIN AV,FALSE,"vacant building, confirmed",building
+11554000100,3434 ILLINOIS AV,FALSE,"vacant building, possible",building
+11556000030,3532 MISSOURI AV,FALSE,"vacant building, possible",building
+11572000120,3426-8 OREGON AV,FALSE,"vacant building, possible",building
+11574000220,3500 NEBRASKA AV,FALSE,"vacant building, possible",building
+11575000041,3530 PENNSYLVANIA AV,FALSE,"vacant building, possible",building
+11578000030,3538-40 MINNESOTA AV,FALSE,"vacant building, possible",building
+11578000260,3531 PENNSYLVANIA AV,FALSE,"vacant building, possible",building
+11580000340,3117 POTOMAC ST,FALSE,"vacant building, possible",building
+11584000201,3423 S COMPTON AV,FALSE,"vacant building, possible",building
+11614000280,3427 DUNNICA AV,FALSE,"vacant building, possible",building
+11627000230,3837 PENNSYLVANIA AV,FALSE,"vacant building, possible",building
+11641000190,2722 MIAMI ST,FALSE,"vacant building, confirmed",building
+11646000310,2635 CHIPPEWA ST,TRUE,"vacant lot, confirmed",lot
+11654000260,3637 MISSOURI AV,FALSE,"vacant lot, confirmed",lot
+11667050170,3655 MARINE AV,FALSE,"vacant lot, possible",lot
+11709220040,2215 SCOTT AV,FALSE,"vacant building, possible",building
+11742000142,3521 N 22ND ST,FALSE,"vacant lot, possible",lot
+11802000321,2621 MCNAIR AV,FALSE,"vacant building, possible",building
+11867050010,3727 DR MARTIN LUTHER KING DR,TRUE,"vacant lot, confirmed",lot
+11868000250,3751 CASS AV,TRUE,"vacant lot, confirmed",lot
+11874000080,2520-2 N SPRING AV,FALSE,"vacant lot, confirmed",lot
+11875000010,2501-5 N GRAND BLVD,TRUE,"vacant lot, confirmed",lot
+11885000050,1718 N GRAND BLVD,FALSE,"vacant lot, possible",lot
+11898000140,2610 GLASGOW AV,FALSE,"vacant building, confirmed",building
+11972000130,2931 INDIANA AV,FALSE,"vacant building, confirmed",building
+11994000010,2930 OHIO AV,FALSE,"vacant building, confirmed",building
+12126000320,3843 MCREE AV,FALSE,"vacant building, confirmed",building
+12404000020,3930 N FLORISSANT AV,FALSE,"vacant building, confirmed",building
+12442000320,4417 RANDALL PL,FALSE,"vacant building, confirmed",building
+12547000100,3117-21 N 9TH ST,FALSE,"vacant building, confirmed",building
+12570000005,3956 PENNSYLVANIA AV,FALSE,"vacant building, confirmed",building
+12587000380,3637 MONTANA ST,FALSE,"vacant building, possible",building
+12599000130,3006-8 OSAGE ST,FALSE,"vacant building, confirmed",building
+12617090050,2226 GASCONADE ST,FALSE,"vacant building, confirmed",building
+12648000080,3406 MERAMEC ST,FALSE,"vacant building, confirmed",building
+12658000050,4240 NEBRASKA AV,FALSE,"vacant building, confirmed",building
+12658000300,4259 OREGON AV,FALSE,"vacant building, confirmed",building
+12663000070,2727 OSCEOLA ST,FALSE,"vacant building, confirmed",building
+12675000250,4347-51 CALIFORNIA AV,FALSE,"vacant building, confirmed",building
+12703000010,4458 MINNESOTA AV,FALSE,"vacant building, confirmed",building
+12704008101,4424-6 PENNSYLVANIA AV,FALSE,"vacant building, possible",building
+12736000160,3540 TAFT AV,FALSE,"vacant building, confirmed",building
+12750000050,4605-7 S BROADWAY,FALSE,"vacant building, confirmed",building
+12812000110,5200-4 S GRAND BLVD,FALSE,"vacant building, confirmed",building
+12846000225,1103-13 BATES ST,FALSE,"vacant building, confirmed",building
+12848000030,5524 LOUISIANA AV,FALSE,"vacant building, confirmed",building
+13390000085,5222 N 20TH ST,FALSE,"vacant building, confirmed",building
+13390000240,1917 LINTON AV,FALSE,"vacant building, confirmed",building
+13541000020,2150-2 HARRIS AV,FALSE,"vacant building, confirmed",building
+13552000060,4522 HOLLY AV,FALSE,"vacant building, confirmed",building
+13561000050,4414 CLARENCE AV,FALSE,"vacant building, confirmed",building
+13566000110,4225-9 FAIR AV,FALSE,"vacant building, confirmed",building
+11929000050,4130 GANO AV,FALSE,"vacant building, confirmed",building
+11944000090,4100 PECK ST,FALSE,"vacant building, confirmed",building
+11975000040,3005 LEMP AV,FALSE,"vacant building, confirmed",building
+11981000030,3018 TEXAS AV,FALSE,"vacant building, confirmed",building
+12077000240,2838-40 SIDNEY ST,FALSE,"vacant building, confirmed",building
+12114000210,3631 SHENANDOAH AV,FALSE,"vacant building, confirmed",building
+12114000250,3647-9 SHENANDOAH AV,FALSE,"vacant building, confirmed",building
+12166000460,1414-6 S THERESA AV,FALSE,"vacant building, confirmed",building
+12391000110,3521-37 N GRAND BLVD,FALSE,"vacant building, confirmed",building
+12571000250,3925 PENNSYLVANIA AV,FALSE,"vacant building, confirmed",building
+12579000110,3622 KEOKUK ST,FALSE,"vacant building, confirmed",building
+12586000020,3688 MONTANA ST,FALSE,"vacant building, confirmed",building
+12587000420,3649 MONTANA ST,FALSE,"vacant building, confirmed",building
+12594000520,4014 S GRAND BLVD,FALSE,"vacant building, confirmed",building
+12602000070,4032 OREGON AV,FALSE,"vacant building, confirmed",building
+12628000100,4118 MINNESOTA AV,FALSE,"vacant building, confirmed",building
+12651000110,4255 VIRGINIA AV,FALSE,"vacant building, confirmed",building
+12651000120,4263 VIRGINIA AV,FALSE,"vacant building, confirmed",building
+12727000110,4501 IDAHO AV,FALSE,"vacant building, confirmed",building
+12727000170,4519 IDAHO AV,FALSE,"vacant building, confirmed",building
+12813000040,5230 TENNESSEE AV,FALSE,"vacant building, confirmed",building
+12996000010,6750 IDAHO AV,FALSE,"vacant building, confirmed",building
+13000000060,6824 VIRGINIA AV,FALSE,"vacant building, confirmed",building
+13056000120,7311 PENNSYLVANIA AV,FALSE,"vacant building, confirmed",building
+13082000070,209 W STEINS ST,FALSE,"vacant building, confirmed",building
+13147000080,7921-3 S BROADWAY,FALSE,"vacant building, confirmed",building
+13399000070,2002 E WARNE AV,FALSE,"vacant building, confirmed",building
+13549000100,4536 HARRIS AV,FALSE,"vacant building, confirmed",building
+13556020110,4633 MORAINE AV,FALSE,"vacant building, confirmed",building
+13563000070,4424 ATHLONE AV,FALSE,"vacant building, confirmed",building
+13571000040,4222 N NEWSTEAD AV,FALSE,"vacant building, confirmed",building
+13573040240,4314 PENROSE ST,FALSE,"vacant building, confirmed",building
+13575000210,4101 LEE AV,FALSE,"vacant building, confirmed",building
+11892000020,2402-8 N GRAND BLVD,FALSE,"vacant lot, confirmed",lot
+11970000120,2901-5 MCNAIR AV,FALSE,"vacant building, confirmed",building
+11975000222,3022R SALENA ST,TRUE,"vacant building, confirmed",building
+11977000080,2008 CRITTENDEN ST,FALSE,"vacant building, confirmed",building
+12054000250,1927 WYOMING ST,FALSE,"vacant building, possible",building
+12132000390,2851 HENRIETTA PL,FALSE,"vacant building, possible",building
+12152000345,2841 EADS AV,FALSE,"vacant lot, possible",lot
+12265000010,2354 RUTGER ST,FALSE,"vacant lot, confirmed",lot
+12351000160,1525 N JEFFERSON AV,FALSE,"vacant lot, confirmed",lot
+12365000010,2624-32 ST LOUIS AV,FALSE,"vacant lot, confirmed",lot
+12389000170,3701 SULLIVAN AV,TRUE,"vacant lot, confirmed",lot
+12391000060,3630-4 PALM ST,FALSE,"vacant lot, possible",lot
+12391000120,3517-9 N GRAND BLVD,TRUE,"vacant lot, confirmed",lot
+12428000160,4238 PECK ST,FALSE,"vacant building, possible",building
+12566000330,3943 OHIO AV,FALSE,"vacant building, possible",building
+12346000040,2336 1/2 NORTH MARKET ST,TRUE,"vacant building, confirmed",building
+12357000030,2915 NORTH MARKET ST,TRUE,"vacant building, confirmed",building
+12570000080,3936 PENNSYLVANIA AV,FALSE,"vacant building, possible",building
+12572000020,3940 MICHIGAN AV,FALSE,"vacant building, possible",building
+12625000300,4145 CALIFORNIA AV,FALSE,"vacant building, possible",building
+12630000260,3147 MERAMEC ST,FALSE,"vacant building, possible",building
+12643000160,3740 MERAMEC ST,FALSE,"vacant building, possible",building
+12658000180,2830 MERAMEC ST,FALSE,"vacant building, confirmed",building
+12697000240,4439 VIRGINIA AV,TRUE,"vacant lot, confirmed",lot
+12703000290,4443 PENNSYLVANIA AV,FALSE,"vacant building, possible",building
+12709000050,4420 OHIO AV,FALSE,"vacant lot, possible",lot
+12725000090,4537 S COMPTON AV,FALSE,"vacant lot, possible",lot
+12745000300,4639 MICHIGAN AV,FALSE,"vacant building, possible",building
+12755000130,4736 S BROADWAY,FALSE,"vacant building, possible",building
+12790000155,2120 RIVER BLUFF PL,FALSE,"vacant lot, possible",lot
+12815000010,5240 ALASKA AV,FALSE,"vacant building, confirmed",building
+12839000150,532 FASSEN ST,TRUE,"vacant building, confirmed",building
+13012000040,7017 S BROADWAY,FALSE,"vacant lot, confirmed",lot
+13037000150,7100 MICHIGAN AV,FALSE,"vacant building, possible",building
+13041000060,7115-7 S BROADWAY,FALSE,"vacant lot, possible",lot
+13118000110,7714-6 WATER ST,FALSE,"vacant lot, confirmed",lot
+13356000420,4319 DESOTO AV,FALSE,"vacant lot, possible",lot
+13447000050,639-41 HOLLY AV,TRUE,"vacant building, confirmed",building
+13447000150,607 HOLLY AV,TRUE,"vacant building, confirmed",building
+13470000180,5500R HALL ST,TRUE,"vacant lot, confirmed",lot
+13566000090,4116 W GREEN LEA PL,FALSE,"vacant building, possible",building
+13577000220,4154 WARNE AV,TRUE,"vacant lot, confirmed",lot
+13606000200,4281 SAN FRANCISCO AV,FALSE,"vacant building, confirmed",building
+13607000190,4265 SACRAMENTO AV,FALSE,"vacant building, confirmed",building
+13621000280,3121 LAMBDIN AV,FALSE,"vacant building, confirmed",building
+13623000070,3036-8 WHITTIER ST,FALSE,"vacant building, confirmed",building
+13625000185,3151 CLAY AV,FALSE,"vacant building, confirmed",building
+13641000380,3951 NORTH MARKET ST,FALSE,"vacant building, confirmed",building
+13644010190,3910-2 MAFFITT AV,FALSE,"vacant building, confirmed",building
+13656000380,1814 N SARAH ST,FALSE,"vacant building, confirmed",building
+13657000040,4046 COTE BRILLIANTE AV,FALSE,"vacant building, confirmed",building
+13669000030,4152 LABADIE AV,FALSE,"vacant building, confirmed",building
+13669000260,4131 ST LOUIS AV,FALSE,"vacant building, confirmed",building
+13679000110,4210 GARFIELD AV,FALSE,"vacant building, confirmed",building
+13685000410,4235 W GARFIELD AV,FALSE,"vacant building, confirmed",building
+13685000550,4273 W GARFIELD AV,FALSE,"vacant building, confirmed",building
+13686000200,4224 W ST FERDINAND AV,FALSE,"vacant building, confirmed",building
+13689000230,4215 W KENNERLY AV,FALSE,"vacant building, confirmed",building
+13704000260,4415 NORTH MARKET ST,FALSE,"vacant building, confirmed",building
+13706000150,4416 KENNERLY AV,FALSE,"vacant building, confirmed",building
+13707000015,4450 MAFFITT AV,FALSE,"vacant building, confirmed",building
+13712000220,4653 MAFFITT AV,TRUE,"vacant building, confirmed",building
+13729000620,4215 W PAGE BLVD,FALSE,"vacant building, confirmed",building
+13732000240,3909 EVANS AV,FALSE,"vacant building, confirmed",building
+13757000040,4262 DELMAR BLVD,FALSE,"vacant building, confirmed",building
+13764050120,768 AUBERT AV,FALSE,"vacant building, confirmed",building
+13769000180,1200 AUBERT AV,FALSE,"vacant building, confirmed",building
+13774040150,4625-7 PAGE BLVD,FALSE,"vacant building, confirmed",building
+13777060030,4732 NEWCOMB PL,FALSE,"vacant building, confirmed",building
+13792000280,5134 MINERVA AV,FALSE,"vacant building, confirmed",building
+13808040020,1318 CLARA AV,TRUE,"vacant building, confirmed",building
+13809040170,5574 PAGE BLVD,FALSE,"vacant building, confirmed",building
+13610000120,4204 W SAN FRANCISCO AV,FALSE,"vacant building, confirmed",building
+13695000010,4366-8 ST FERDINAND AV,FALSE,"vacant building, confirmed",building
+13735000300,3819 PAGE BLVD,FALSE,"vacant building, confirmed",building
+13741000025,4050 PAGE BLVD,FALSE,"vacant building, confirmed",building
+13745000270,4228 PAGE BLVD,FALSE,"vacant building, confirmed",building
+13756000370,4249 DELMAR BLVD,FALSE,"vacant building, confirmed",building
+13775040100,1423-9 CORA AV,FALSE,"vacant building, confirmed",building
+13801040080,1338 BELT AV,FALSE,"vacant building, confirmed",building
+13802040100,1380 BELT AV,FALSE,"vacant building, confirmed",building
+13802040260,1367 SEMPLE AV,FALSE,"vacant building, confirmed",building
+13809030080,5548 PAGE BLVD,FALSE,"vacant building, confirmed",building
+13810000010,5598D ETZEL AV,FALSE,"vacant building, confirmed",building
+13609000150,4215-9 W NATURAL BRIDGE AV,TRUE,"vacant lot, confirmed",lot
+13613000290,3806-12 N NEWSTEAD AV,FALSE,"vacant lot, possible",lot
+13616000131,4327 FARLIN AV,TRUE,"vacant building, confirmed",building
+13616000131,4327 FARLIN AV,TRUE,"vacant building, confirmed",building
+13639000150,3901 COTE BRILLIANTE AV,TRUE,"vacant lot, confirmed",lot
+13651020150,4020 KENNERLY AV,FALSE,"vacant building, possible",building
+13656000290,4047 COTE BRILLIANTE AV,FALSE,"vacant building, possible",building
+13661000280,1727 BELLE GLADE AV,FALSE,"vacant building, possible",building
+13699180090,4333-49 DR MARTIN LUTHER KING DR,FALSE,"vacant lot, confirmed",lot
+13712000010,4672 ST LOUIS AV,TRUE,"vacant lot, confirmed",lot
+13713000210,4625 KENNERLY AV,FALSE,"vacant lot, possible",lot
+13742000005,1127 N VANDEVENTER AV,TRUE,"vacant lot, confirmed",lot
+13742000005,1127 N VANDEVENTER AV,TRUE,"vacant lot, confirmed",lot
+13742000005,1127 N VANDEVENTER AV,TRUE,"vacant lot, confirmed",lot
+13742000005,1127 N VANDEVENTER AV,TRUE,"vacant lot, confirmed",lot
+13742000005,1127 N VANDEVENTER AV,TRUE,"vacant lot, confirmed",lot
+13754000050,4048 WEST BELLE PL,FALSE,"vacant building, confirmed",building
+13771000275,4800 PAGE BLVD,FALSE,"vacant lot, confirmed",lot
+13774030570,4555-7 PAGE BLVD,TRUE,"vacant lot, confirmed",lot
+13779000350,4729-31 DR MARTIN LUTHER KING DR,FALSE,"vacant building, possible",building
+13779000460,4769 DR MARTIN LUTHER KING DR,TRUE,"vacant lot, confirmed",lot
+13797000010,5390 DR MARTIN LUTHER KING DR,TRUE,"vacant lot, confirmed",lot
+13797000015,5382 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+13797000015,5382 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+13806080120,1430 GRANVILLE PL,TRUE,"vacant building, confirmed",building
+13819030050,5628 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+13819090080,1482-4 GOODFELLOW BLVD,FALSE,"vacant building, confirmed",building
+13824000340,1261 GOODFELLOW BLVD,FALSE,"vacant building, confirmed",building
+13834050420,5939 HAMILTON TER,FALSE,"vacant building, confirmed",building
+13835060280,5949 MINERVA AV,FALSE,"vacant building, confirmed",building
+13837000120,5960-2 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+13860000040,936 LAUREL ST,FALSE,"vacant building, confirmed",building
+13972000050,4256 MANCHESTER AV,FALSE,"vacant building, confirmed",building
+14009030040,1336 JANUARY AV,FALSE,"vacant building, confirmed",building
+14009030050,1334 JANUARY AV,FALSE,"vacant building, confirmed",building
+14009030250,1331 SUBLETTE AV,FALSE,"vacant building, confirmed",building
+14248050010,1126 MCLARAN AV,FALSE,"vacant building, confirmed",building
+14248050060,1106 MCLARAN AV,FALSE,"vacant building, confirmed",building
+14248050070,1104 MCLARAN AV,FALSE,"vacant building, confirmed",building
+14248060170,1017 GIMBLIN ST,FALSE,"vacant building, confirmed",building
+14254000150,8359 HALLS FERRY RD,FALSE,"vacant building, confirmed",building
+14287030190,8937 EDNA ST,FALSE,"vacant building, confirmed",building
+14288000225,8923 NEWBY ST,FALSE,"vacant building, confirmed",building
+14293000050,8440-2 N BROADWAY,FALSE,"vacant building, confirmed",building
+14294000060,8524 N BROADWAY,FALSE,"vacant building, confirmed",building
+14338270130,4861 WOODSTOCK AV,FALSE,"vacant building, confirmed",building
+14350000140,5500 BIRCHER BLVD,FALSE,"vacant building, confirmed",building
+14383160210,4915 FARLIN AV,FALSE,"vacant building, confirmed",building
+14387000160,4916 SAN FRANCISCO AV,FALSE,"vacant building, confirmed",building
+14389020330,4815-7 FARLIN AV,FALSE,"vacant building, confirmed",building
+14406110130,4654 LEE AV,FALSE,"vacant building, confirmed",building
+14409020220,4501-5 NATURAL BRIDGE AV,TRUE,"vacant lot, confirmed",lot
+14410010190,4435 SAN FRANCISCO AV,FALSE,"vacant building, confirmed",building
+14410010360,3922 N TAYLOR AV,FALSE,"vacant building, confirmed",building
+14414040040,4662 PENROSE ST,FALSE,"vacant building, confirmed",building
+14414040190,4616 PENROSE ST,FALSE,"vacant building, confirmed",building
+14414040270,4611 LEE AV,FALSE,"vacant building, confirmed",building
+14418340330,4587 CARTER AV,FALSE,"vacant building, confirmed",building
+14419100340,4612 SHIRLEY PL,FALSE,"vacant building, confirmed",building
+14426030220,4253 KOSSUTH AV,FALSE,"vacant building, confirmed",building
+14436000220,4263 FARLIN AV,FALSE,"vacant building, confirmed",building
+14436000270,4275 FARLIN AV,FALSE,"vacant building, confirmed",building
+14440090360,4263 ASHLAND AV,FALSE,"vacant building, confirmed",building
+14450150240,4673 PALM ST,FALSE,"vacant building, confirmed",building
+14452000060,4720 PALM ST,FALSE,"vacant building, confirmed",building
+14466000480,4257 LABADIE AV,FALSE,"vacant building, confirmed",building
+14466000490,4259 LABADIE AV,FALSE,"vacant building, confirmed",building
+14467030290,3145-7 WHITTIER ST,FALSE,"vacant building, confirmed",building
+14467030510,3039 WHITTIER ST,FALSE,"vacant building, confirmed",building
+14469050140,4428 GREER AV,FALSE,"vacant building, confirmed",building
+14473000060,4635 LEDUC ST,FALSE,"vacant building, confirmed",building
+14490010190,4902 LOTUS AV,FALSE,"vacant building, confirmed",building
+14491020370,4945 HIGHLAND AV,FALSE,"vacant building, confirmed",building
+14499060220,5116 TERRY AV,FALSE,"vacant building, confirmed",building
+14504000700,5243 WABADA AV,FALSE,"vacant building, confirmed",building
+14514000170,5328 LOTUS AV,FALSE,"vacant building, confirmed",building
+14515000470,5355 LOTUS AV,FALSE,"vacant building, confirmed",building
+14522000380,1939 ARLINGTON AV,FALSE,"vacant building, confirmed",building
+14523000350,2523 ARLINGTON AV,FALSE,"vacant building, confirmed",building
+14525000183,1954 BELT AV,FALSE,"vacant building, confirmed",building
+14526000270,1613 SEMPLE AV,FALSE,"vacant building, possible",building
+14529000340,5501 WABADA AV,FALSE,"vacant building, confirmed",building
+14531000110,1930 CLARA AV,FALSE,"vacant building, confirmed",building
+14532000140,2618 CLARA AV,FALSE,"vacant building, confirmed",building
+14532000160,2622 CLARA AV,FALSE,"vacant building, confirmed",building
+14532000380,2525 BURD AV,FALSE,"vacant building, confirmed",building
+14532000420,5549 WABADA AV,FALSE,"vacant building, confirmed",building
+14534000770,5539 MAFFITT AV,FALSE,"vacant building, confirmed",building
+14553060160,4604 NEWBERRY TER,TRUE,"vacant building, confirmed",building
+14553060160,4604 NEWBERRY TER,TRUE,"vacant building, confirmed",building
+14553060160,4604 NEWBERRY TER,TRUE,"vacant building, confirmed",building
+14555000070,4356 PAGE BLVD,FALSE,"vacant building, confirmed",building
+14585000250,3821-7 OLIVE ST,FALSE,"vacant building, confirmed",building
+14609040060,1387 CHILDRESS AV,FALSE,"vacant building, confirmed",building
+13815090150,1237 SHAWMUT PL,FALSE,"vacant building, confirmed",building
+13817090260,1369 SHAWMUT PL,FALSE,"vacant building, confirmed",building
+13817100030,1362 SHAWMUT PL,FALSE,"vacant building, confirmed",building
+13821000060,1424 ROWAN AV,FALSE,"vacant building, confirmed",building
+13829000200,5966 HORTON PL,FALSE,"vacant building, confirmed",building
+13834050290,1341-5 HAMILTON AV,FALSE,"vacant building, confirmed",building
+13851010070,1101 HODIAMONT AV,FALSE,"vacant building, confirmed",building
+13852050010,6144 BARTMER AV,FALSE,"vacant building, confirmed",building
+13858000080,939 MARYVILLE AV,FALSE,"vacant building, confirmed",building
+13858000090,935-7 MARYVILLE AV,FALSE,"vacant building, confirmed",building
+13865000080,5348 CABANNE AV,FALSE,"vacant building, confirmed",building
+13987000110,4120 BINGHAM AV,FALSE,"vacant building, confirmed",building
+14009040570,1337 HUGHES PL,FALSE,"vacant building, confirmed",building
+14133000030,4158-60 FAIRVIEW AV,FALSE,"vacant building, confirmed",building
+14164000100,4036 JUNIATA ST,FALSE,"vacant building, confirmed",building
+14164000320,4045 CONNECTICUT ST,FALSE,"vacant building, confirmed",building
+14175000240,3943 DUNNICA AV,FALSE,"vacant building, confirmed",building
+14178030090,3719 KEOKUK ST,FALSE,"vacant building, confirmed",building
+14239020200,1008 BITTNER ST,FALSE,"vacant building, confirmed",building
+14287040170,1148 CANAAN AV,FALSE,"vacant building, confirmed",building
+14343060260,4315 DARBY ST,FALSE,"vacant building, confirmed",building
+14391110480,4863 ANDERSON AV,FALSE,"vacant building, confirmed",building
+14408020060,4630 SAN FRANCISCO AV,FALSE,"vacant building, confirmed",building
+14408020070,4628 SAN FRANCISCO AV,FALSE,"vacant building, confirmed",building
+14409020290,4537-9 NATURAL BRIDGE AV,FALSE,"vacant building, confirmed",building
+14456000400,3416 N KINGSHIGHWAY BLVD,FALSE,"vacant building, confirmed",building
+14462050110,4600-2 ASHLAND AV,FALSE,"vacant building, confirmed",building
+14470000110,4640 KENNERLY AV,FALSE,"vacant building, confirmed",building
+14474000090,4649 COTE BRILLIANTE AV,FALSE,"vacant building, confirmed",building
+14477020570,4769 CUPPLES PL,FALSE,"vacant building, confirmed",building
+14489060080,4912 WARWICK AV,FALSE,"vacant building, confirmed",building
+14497050010,3101 W NORWOOD DR,FALSE,"vacant building, confirmed",building
+14513010380,5343 THEODOSIA AV,FALSE,"vacant building, confirmed",building
+14534000380,5510 ST LOUIS AV,FALSE,"vacant building, confirmed",building
+14543000350,5897-9 DELMAR BLVD,FALSE,"vacant building, confirmed",building
+14546000380,5705 CLEMENS AV,FALSE,"vacant building, confirmed",building
+14558000030,4362 COOK AV,FALSE,"vacant building, confirmed",building
+14572000050,4362 ENRIGHT AV,FALSE,"vacant building, confirmed",building
+13821000266,5847R RIDGE AV,FALSE,"vacant lot, possible",lot
+13822060510,5889 MINERVA AV,FALSE,"vacant lot, possible",lot
+13828000150,5848 BARTMER AV,FALSE,"vacant building, confirmed",building
+13847000060,6109 PAGE BLVD,TRUE,"vacant lot, confirmed",lot
+13875180810,5599 WATERMAN BLVD,FALSE,"vacant lot, possible",lot
+13899000035,4480R MARYLAND AV,FALSE,"vacant lot, possible",lot
+13901000235,4409R LACLEDE AV,FALSE,"vacant lot, possible",lot
+13910060560,4219 MCPHERSON AV,FALSE,"vacant lot, possible",lot
+13965000320,4105 CHOUTEAU AV,FALSE,"vacant lot, confirmed",lot
+13976000181,4310 SWAN AV,FALSE,"vacant building, possible",building
+13982000350,4333 HUNT AV,FALSE,"vacant lot, possible",lot
+13992000320,1337-9 S VANDEVENTER AV,TRUE,"vacant lot, confirmed",lot
+14020060120,1243 GRAHAM ST,FALSE,"vacant building, possible",building
+14037000200,5319 SHAW AV,FALSE,"vacant lot, possible",lot
+14038000280,5345 DAGGETT AV,FALSE,"vacant lot, possible",lot
+14048010190,5514 BOTANICAL AV,FALSE,"vacant lot, possible",lot
+14076000220,5219 DAGGETT AV,FALSE,"vacant lot, possible",lot
+14086000040,5027 DAGGETT AV,FALSE,"vacant lot, possible",lot
+14091000085,4926 SHAW AV,TRUE,"vacant building, confirmed",building
+14132000410,4063 POTOMAC ST,FALSE,"vacant building, possible",building
+14156000070,3956 WYOMING ST,FALSE,"vacant building, possible",building
+14239020190,1010 BITTNER ST,FALSE,"vacant building, possible",building
+14240000210,981 SWITZER AV,TRUE,"vacant building, confirmed",building
+14295040210,8562 LOWELL ST,FALSE,"vacant building, possible",building
+14338280060,4861 NORWICH PL,TRUE,"vacant building, confirmed",building
+14388050160,4850 MARGARETTA AV,FALSE,"vacant building, possible",building
+14391110160,4844 CALVIN AV,FALSE,"vacant building, confirmed",building
+14391110250,4816 CALVIN AV,FALSE,"vacant building, confirmed",building
+14413000800,4497 LEE AV,FALSE,"vacant building, possible",building
+14414040420,4663 LEE AV,FALSE,"vacant building, possible",building
+14415090270,4639 ANDERSON AV,FALSE,"vacant building, possible",building
+14426040120,4284-6 LEE AV,FALSE,"vacant building, possible",building
+14435000140,4200 KOSSUTH AV,FALSE,"vacant building, possible",building
+14444000260,3534-8 N NEWSTEAD AV,FALSE,"vacant building, possible",building
+14448050030,4556 NATURAL BRIDGE AV,TRUE,"vacant building, confirmed",building
+14450150220,4667 PALM ST,FALSE,"vacant building, possible",building
+14468140170,4233 W LABADIE AV,TRUE,"vacant building, confirmed",building
+14469060120,4442 LABADIE AV,FALSE,"vacant lot, confirmed",lot
+14469060160,2929-31 N NEWSTEAD AV,TRUE,"vacant lot, confirmed",lot
+14469060180,4401-7 ST LOUIS AV,FALSE,"vacant lot, confirmed",lot
+14491020190,4916 NORTHLAND PL,FALSE,"vacant building, possible",building
+14500010080,5036 TERRY AV,FALSE,"vacant building, possible",building
+14503060060,5244 NORTHLAND AV,FALSE,"vacant building, possible",building
+14504000370,5065 WABADA AV,TRUE,"vacant lot, confirmed",lot
+14517050110,2841 ABNER PL,FALSE,"vacant building, possible",building
+14523000390,2513 ARLINGTON AV,FALSE,"vacant lot, possible",lot
+14540000315,5901 CLEMENS AV,FALSE,"vacant lot, possible",lot
+14544000500,5847 ENRIGHT AV,FALSE,"vacant lot, possible",lot
+14544000500,5847 ENRIGHT AV,FALSE,"vacant lot, possible",lot
+14553060610,4571 LEWIS PL,FALSE,"vacant building, possible",building
+14554000085,4400-14 PAGE BLVD,FALSE,"vacant lot, possible",lot
+14556000050,4616 DELMAR BLVD,TRUE,"vacant lot, confirmed",lot
+14557000215,4513 OLIVE ST,FALSE,"vacant building, possible",building
+14583000384,4291 OLIVE ST,FALSE,"vacant lot, possible",lot
+14584000530,516-20 N SARAH ST,TRUE,"vacant lot, confirmed",lot
+14824000620,2725 SEMPLE AV,FALSE,"vacant building, confirmed",building
+14862000050,5428 PAGE BLVD,FALSE,"vacant building, confirmed",building
+14885000160,6321 LALITE AV,FALSE,"vacant building, confirmed",building
+14896000210,4211 CLAY AV,FALSE,"vacant building, confirmed",building
+14897000210,4115 GREEN LEA PL,FALSE,"vacant building, confirmed",building
+14897000300,4137 GREEN LEA PL,FALSE,"vacant building, confirmed",building
+14913000240,5616 LOTUS AV,FALSE,"vacant building, confirmed",building
+14913000250,5614 LOTUS AV,FALSE,"vacant building, confirmed",building
+14913000260,5610 LOTUS AV,FALSE,"vacant building, confirmed",building
+14913000570,5725 COTE BRILLIANTE AV,FALSE,"vacant building, confirmed",building
+14990000390,5881 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+14991000090,5872 COTE BRILLIANTE AV,FALSE,"vacant building, confirmed",building
+14993000070,5874 WABADA AV,FALSE,"vacant building, confirmed",building
+14996000530,2500 HODIAMONT AV,FALSE,"vacant building, confirmed",building
+14998000430,5951 COTE BRILLIANTE AV,FALSE,"vacant building, confirmed",building
+15042000450,4567 ARCO AV,FALSE,"vacant building, confirmed",building
+15066000060,1223-5 LOUISVILLE AV,FALSE,"vacant building, confirmed",building
+15095000080,7156 WELLINGTON CT,FALSE,"vacant building, confirmed",building
+15123000350,5225 ROBIN AV,FALSE,"vacant building, confirmed",building
+15135000140,5776-8 W FLORISSANT AV,FALSE,"vacant building, confirmed",building
+15150000370,5069 CABANNE AV,FALSE,"vacant building, confirmed",building
+15185000370,3853 SULLIVAN AV,FALSE,"vacant building, confirmed",building
+15187000060,3952 SULLIVAN AV,FALSE,"vacant building, confirmed",building
+15191000210,3907 PALM ST,FALSE,"vacant building, confirmed",building
+15196000090,4016 SULLIVAN AV,FALSE,"vacant building, confirmed",building
+15196000120,4008 SULLIVAN AV,FALSE,"vacant building, confirmed",building
+15200000250,5654 KENNERLY AV,FALSE,"vacant building, confirmed",building
+15201000600,5711 KENNERLY AV,FALSE,"vacant building, confirmed",building
+15204000350,7934 N BROADWAY,FALSE,"vacant building, confirmed",building
+15227000150,705 THRUSH AV,FALSE,"vacant building, confirmed",building
+15241000090,5552 GREER AV,FALSE,"vacant building, confirmed",building
+15243000070,5742 ROOSEVELT PL,FALSE,"vacant building, confirmed",building
+15244000740,5749 ROOSEVELT PL,FALSE,"vacant building, confirmed",building
+15251000150,1023 THEOBALD ST,FALSE,"vacant building, confirmed",building
+15251000190,1039 THEOBALD ST,FALSE,"vacant building, confirmed",building
+15252000160,1004 HORNSBY AV,FALSE,"vacant building, confirmed",building
+15253000210,8648 CHURCH RD,FALSE,"vacant building, confirmed",building
+15254000230,2704-10 CLARA AV,FALSE,"vacant lot, confirmed",lot
+15275000210,837 WALL ST,FALSE,"vacant building, confirmed",building
+15280000150,2921-3 BELT AV,FALSE,"vacant building, confirmed",building
+15282000390,5575 GREER AV,FALSE,"vacant building, confirmed",building
+15346000390,6053 THEKLA AV,FALSE,"vacant building, confirmed",building
+15389000120,5800-2 WOODLAND AV,FALSE,"vacant building, confirmed",building
+15397000490,4907 THRUSH AV,FALSE,"vacant building, confirmed",building
+15400000260,8749 JORDAN ST,FALSE,"vacant building, confirmed",building
+15414000510,5320 ORIOLE AV,FALSE,"vacant building, confirmed",building
+15432000460,1161 HOWELL ST,FALSE,"vacant building, confirmed",building
+15433000340,1141 CANAAN AV,FALSE,"vacant building, confirmed",building
+15434000160,1072 RIVERVIEW BLVD,FALSE,"vacant building, confirmed",building
+15458000220,6301 EMMA AV,FALSE,"vacant building, confirmed",building
+15468000010,4915 THEKLA AV,FALSE,"vacant building, confirmed",building
+15468000440,4914 LEAHY AV,FALSE,"vacant building, confirmed",building
+15492000380,6141 LAURA AV,FALSE,"vacant building, confirmed",building
+15528000180,5450 GENEVIEVE AV,FALSE,"vacant building, confirmed",building
+14751040340,3381 TEDMAR AV,FALSE,"vacant building, confirmed",building
+14842000190,5120 CATES AV,FALSE,"vacant building, confirmed",building
+14873000210,4112 WEST BELLE PL,FALSE,"vacant building, confirmed",building
+14874000030,4186 ENRIGHT AV,FALSE,"vacant building, confirmed",building
+14874000330,4111 DELMAR BLVD,FALSE,"vacant building, confirmed",building
+14883000350,5332 GOODFELLOW BLVD,FALSE,"vacant building, confirmed",building
+14897000040,4138-40 CARTER AV,FALSE,"vacant building, confirmed",building
+14897000340,4147 GREEN LEA PL,FALSE,"vacant building, confirmed",building
+14899000020,4036 CARTER AV,FALSE,"vacant building, confirmed",building
+14926000300,4133 BOTANICAL AV,FALSE,"vacant building, confirmed",building
+14939000270,4101 RUSSELL BLVD,FALSE,"vacant building, confirmed",building
+14954000110,4217 MERAMEC ST,FALSE,"vacant building, confirmed",building
+14970000470,4171 MCREE AV,FALSE,"vacant building, confirmed",building
+14975000050,6964 PERNOD AV,FALSE,"vacant building, confirmed",building
+14980000095,3711 BERGER AV,FALSE,"vacant building, confirmed",building
+14990000280,5809-11 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+14990000340,5843 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+15000000290,5917-21 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+15014000120,4776 ST LOUIS AV,FALSE,"vacant building, confirmed",building
+15066000380,1230 KRAFT ST,FALSE,"vacant building, confirmed",building
+15081000320,5449 GERALDINE AV,FALSE,"vacant building, confirmed",building
+15093000430,4171 HARTFORD ST,FALSE,"vacant building, confirmed",building
+15102000250,3373 COMMONWEALTH AV,FALSE,"vacant building, confirmed",building
+15115000050,4342 HUMPHREY ST,FALSE,"vacant building, confirmed",building
+15125000310,5451 PLOVER AV,FALSE,"vacant building, confirmed",building
+15172000320,5537 MURDOCH AV,FALSE,"vacant building, confirmed",building
+15175000090,5014 DEVONSHIRE AV,FALSE,"vacant building, confirmed",building
+15186000120,3826 SULLIVAN AV,FALSE,"vacant building, confirmed",building
+15280000120,5512 LABADIE AV,FALSE,"vacant lot, confirmed",lot
+15286000080,6204 GRAVOIS AV,FALSE,"vacant building, confirmed",building
+15307000110,5854-8 DR MARTIN LUTHER KING DR,FALSE,"vacant building, confirmed",building
+15312000160,3914-6 DETONTY ST,FALSE,"vacant building, confirmed",building
+15335000510,5478 LOUGHBOROUGH AV,FALSE,"vacant building, confirmed",building
+15364000270,4747 ADKINS AV,FALSE,"vacant building, confirmed",building
+15365000250,4656 DAHLIA AV,FALSE,"vacant building, confirmed",building
+15416000140,6124-6 WATERMAN BLVD,FALSE,"vacant building, confirmed",building
+15464000320,4915 SAN FRANCISCO AV,FALSE,"vacant building, confirmed",building
+15506000130,4336 ELLENWOOD AV,FALSE,"vacant building, confirmed",building
+15508000130,5918 WATERMAN BLVD,FALSE,"vacant building, confirmed",building
+15530000140,5238 THRUSH AV,FALSE,"vacant building, confirmed",building
+15536000110,4672 ROSA AV,FALSE,"vacant building, confirmed",building
+15545000440,4459 ITASKA ST,FALSE,"vacant building, confirmed",building
+15547000310,4413 DELOR ST,FALSE,"vacant building, confirmed",building
+14739000148,3260 BRANNON AV,FALSE,"vacant building, confirmed",building
+14767020200,3334 LEOLA AV,FALSE,"vacant building, possible",building
+14786000161,7225 ARSENAL ST,FALSE,"vacant lot, possible",lot
+14789000060,2740 ELLENDALE AV,FALSE,"vacant lot, possible",lot
+14826000590,5719-21 DR MARTIN LUTHER KING DR,TRUE,"vacant lot, confirmed",lot
+14847000120,5209 KENSINGTON AV,FALSE,"vacant building, possible",building
+14873000490,4185 ENRIGHT AV,TRUE,"vacant lot, confirmed",lot
+14875000265,4100 DELMAR BLVD,TRUE,"vacant lot, confirmed",lot
+14882000080,6130 EMMA AV,FALSE,"vacant building, confirmed",building
+14892000360,6457 NASHVILLE AV,FALSE,"vacant building, confirmed",building
+14897000310,4139 GREEN LEA PL,FALSE,"vacant lot, possible",lot
+14914000005,1968 GOODFELLOW BLVD,FALSE,"vacant building, possible",building
+14914000760,1954 GOODFELLOW BLVD,TRUE,"vacant lot, confirmed",lot
+14915000080,3952 BOTANICAL AV,FALSE,"vacant building, possible",building
+14964000090,4046 FOLSOM AV,FALSE,"vacant lot, possible",lot
+14969000352,4169 BLAINE AV,FALSE,"vacant lot, possible",lot
+15014000390,4717 MAFFITT AV,FALSE,"vacant building, possible",building
+15045000070,4550 WICHITA AV,FALSE,"vacant building, confirmed",building
+15051010240,5030 DELMAR BLVD,FALSE,"vacant lot, confirmed",lot
+15082000190,5458 CLAXTON AV,FALSE,"vacant building, possible",building
+15083000150,5344 CLAXTON AV,FALSE,"vacant building, possible",building
+15085000400,5347 RUSKIN AV,FALSE,"vacant building, confirmed",building
+15087000015,5000-20 UNION BLVD,TRUE,"vacant lot, confirmed",lot
+15087000015,5000-20 UNION BLVD,TRUE,"vacant lot, confirmed",lot
+15087000015,5000-20 UNION BLVD,TRUE,"vacant lot, confirmed",lot
+15087000015,5000-20 UNION BLVD,TRUE,"vacant lot, confirmed",lot
+15087000015,5000-20 UNION BLVD,TRUE,"vacant lot, confirmed",lot
+15090000110,4932 UNION BLVD,FALSE,"vacant lot, possible",lot
+15117000050,3745 LOUIS ST,FALSE,"vacant building, possible",building
+15181000250,5314 SAVOY CT,FALSE,"vacant lot, possible",lot
+15185000320,3837 SULLIVAN AV,FALSE,"vacant building, possible",building
+15229040170,5123 ST LOUIS AV,FALSE,"vacant building, confirmed",building
+15237000340,5600 LABADIE AV,FALSE,"vacant building, possible",building
+15246000270,5345 ST LOUIS AV,FALSE,"vacant building, possible",building
+15260000170,4922 LABADIE AV,FALSE,"vacant building, possible",building
+15276000500,1011 WALL ST,FALSE,"vacant building, possible",building
+15284000240,5215 PAULIAN PL,FALSE,"vacant building, possible",building
+15344000440,6055 EMMA AV,FALSE,"vacant building, possible",building
+15354000070,5819 THEODORE AV,FALSE,"vacant lot, possible",lot
+15417000415,6177 WATERMAN BLVD,FALSE,"vacant lot, possible",lot
+15434000050,8980 EDNA ST,FALSE,"vacant building, possible",building
+15437000420,1650 S 39TH ST,FALSE,"vacant building, possible",building
+15474000240,3855 BATES ST,FALSE,"vacant building, possible",building
+15525000310,5507 BEACON AV,FALSE,"vacant building, possible",building
+15529000490,5411 GENEVIEVE AV,TRUE,"vacant building, confirmed",building
+15549000110,4734 WREN AV,TRUE,"vacant building, confirmed",building
+15555000230,5341 TERRY AV,FALSE,"vacant building, confirmed",building
+15557000310,5097 CLAXTON AV,FALSE,"vacant building, confirmed",building
+15594000310,5033 ROSA AV,FALSE,"vacant building, confirmed",building
+15605000330,1352 CENTRAL AV,FALSE,"vacant building, confirmed",building
+15625000025,4166 MERAMEC ST,FALSE,"vacant building, possible",building
+15627000100,8807 LOWELL ST,FALSE,"vacant building, confirmed",building
+15720000120,5910 MCARTHUR AV,FALSE,"vacant building, confirmed",building
+15740000320,5108 THEKLA AV,FALSE,"vacant building, confirmed",building
+15744000190,5060 QUEENS AV,FALSE,"vacant building, confirmed",building
+15785000380,5617 HILLER PL,FALSE,"vacant building, confirmed",building
+15795000250,5827 RIVERVIEW BLVD,FALSE,"vacant building, confirmed",building
+15804000210,6107 W FLORISSANT AV,FALSE,"vacant building, confirmed",building
+15809000190,5979 SUMMIT AV,FALSE,"vacant building, confirmed",building
+15820000030,4176 CONCORDIA AV,FALSE,"vacant building, confirmed",building
+15906000210,4525 FLAD AV,FALSE,"vacant building, confirmed",building
+15931000380,5553 HEBERT ST,FALSE,"vacant building, confirmed",building
+15936000200,4227 EICHELBERGER ST,FALSE,"vacant building, confirmed",building
+16096000210,5861 KENNERLY AV,FALSE,"vacant building, confirmed",building
+16230000365,8712 ANNETTA ST,FALSE,"vacant building, confirmed",building
+16279000200,8509 OXFORD LA,FALSE,"vacant building, confirmed",building
+16283000200,5651 BANCROFT AV,FALSE,"vacant building, confirmed",building
+16299000150,1231 MCLARAN AV,FALSE,"vacant building, confirmed",building
+16348000040,8762 JORDAN ST,FALSE,"vacant building, confirmed",building
+16348000100,8786 JORDAN ST,FALSE,"vacant building, confirmed",building
+16348000250,819 HARLAN AV,FALSE,"vacant building, confirmed",building
+16360000050,885 RIVERVIEW BLVD,FALSE,"vacant building, confirmed",building
+16362000210,882 RIVERVIEW BLVD,FALSE,"vacant building, confirmed",building
+15552000020,5890 KENNERLY AV,FALSE,"vacant building, confirmed",building
+15554000420,5141 COLOGNE AV,FALSE,"vacant building, confirmed",building
+15568000480,5209 EMERSON AV,FALSE,"vacant building, confirmed",building
+15577000450,5439 CLAXTON AV,FALSE,"vacant building, confirmed",building
+15625000035,4168 MERAMEC ST,FALSE,"vacant building, confirmed",building
+15676000220,3835 OSCEOLA ST,FALSE,"vacant building, confirmed",building
+15757000105,5801 NASHVILLE AV,FALSE,"vacant building, confirmed",building
+15805000090,6142 NORTH POINTE BLVD,FALSE,"vacant building, confirmed",building
+15806000350,6059 NORTH POINTE BLVD,FALSE,"vacant building, confirmed",building
+15812000170,5963 RIVERVIEW BLVD,FALSE,"vacant building, confirmed",building
+15842000290,4639 WILCOX AV,FALSE,"vacant building, confirmed",building
+15883000240,4019 GILES AV,FALSE,"vacant building, confirmed",building
+15936000170,4215 EICHELBERGER ST,FALSE,"vacant building, confirmed",building
+16108000060,5938 LILLIAN AV,FALSE,"vacant building, confirmed",building
+16116000150,6319 HENNER AV,FALSE,"vacant building, confirmed",building
+16202000050,6600 ITASKA ST,FALSE,"vacant building, confirmed",building
+16234000210,6209 THOLOZAN AV,FALSE,"vacant building, confirmed",building
+16289000470,5251 CHIPPEWA ST,FALSE,"vacant building, confirmed",building
+16336000080,5436 LINDENWOOD AV,FALSE,"vacant building, confirmed",building
+16363000120,8781 JORDAN ST,FALSE,"vacant building, confirmed",building
+15551000620,2502 HAMILTON AV,TRUE,"vacant lot, confirmed",lot
+15593000160,5511 S KINGSHIGHWAY BLVD,FALSE,"vacant building, possible",building
+15600000110,6900 WEST PARK AV,FALSE,"vacant building, confirmed",building
+15605000270,6735 DALE AV,FALSE,"vacant building, confirmed",building
+15606000330,6755 NASHVILLE AV,FALSE,"vacant lot, possible",lot
+15616000446,5738R VERA CT,FALSE,"vacant lot, possible",lot
+15691000420,5423 EICHELBERGER ST,FALSE,"vacant building, possible",building
+15782000095,5932 W FLORISSANT AV,TRUE,"vacant lot, confirmed",lot
+15793030090,3923 SCHILLER PL,FALSE,"vacant lot, possible",lot
+15853000020,4458 CHIPPEWA ST,FALSE,"vacant building, possible",building
+15886000030,5006 N KINGSHIGHWAY BLVD,FALSE,"vacant building, possible",building
+15967000100,4332 FAIRVIEW AV,FALSE,"vacant lot, possible",lot
+16074000420,4975-7 PARKER AV,FALSE,"vacant building, possible",building
+16299000120,1217 MCLARAN AV,FALSE,"vacant building, possible",building
+16303000020,4548 BESSIE AV,FALSE,"vacant building, possible",building
+16371000250,3986 MERAMEC ST,FALSE,"vacant lot, possible",lot
+16401000555,3864 BOULEVARD HEIGHTS CT,FALSE,"vacant lot, possible",lot
+16401000559,3856 BOULEVARD HEIGHTS CT,FALSE,"vacant lot, possible",lot
+16483000012,1300-6 N 8TH ST,FALSE,"vacant lot, possible",lot
+19119000360,715 LOOKAWAY CT,FALSE,"vacant lot, possible",lot
+10174000020,910-2 CONVENTION PLAZA,TRUE,"vacant lot, confirmed",lot
+10174000080,909-21 LUCAS AV,TRUE,"vacant lot, confirmed",lot
+10177000010,1018-24 CONVENTION PLAZA,TRUE,"vacant lot, confirmed",lot
+10177000020,1016 CONVENTION PLAZA,TRUE,"vacant lot, confirmed",lot
+10177000040,1000-6 CONVENTION PLAZA,TRUE,"vacant lot, confirmed",lot
+10177000060,1009-13 LUCAS AV,TRUE,"vacant lot, confirmed",lot
+10177000080,1015 LUCAS AV,TRUE,"vacant lot, confirmed",lot
+10177000090,1017-9 LUCAS AV,TRUE,"vacant lot, confirmed",lot
+10177000100,1021-5 LUCAS AV,TRUE,"vacant lot, confirmed",lot
+10419000035,700 CERRE ST,TRUE,"vacant lot, confirmed",lot
+10435000030,1000-8 CLARK AV,TRUE,"vacant lot, confirmed",lot
