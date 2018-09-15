@@ -10,7 +10,7 @@
   * **Keywords -** Missouri, St. Louis, Street Closures, Barriers, Urban Planning
   * **Constraints Use -** Open Data Commons Attribution License (ODC-By) v1.0
   * **Constraints Text -** see `LICENSE`
-  * **Spatial Representation Type -** Vector - Point
+  * **Spatial Representation Type -** Vector - Polygon
   * **Coordinate System -** NA
   * **Language -** English
   * **Topic Category -** Vacancy
